@@ -1,0 +1,6 @@
+*.class
+.vscode/
+BD_NORMALIZADA.csv
+Registro_Biblioteca - Hoja 1.csv
+Reporte_Deudores.csv
+Reporte_Estadisticas.csv
