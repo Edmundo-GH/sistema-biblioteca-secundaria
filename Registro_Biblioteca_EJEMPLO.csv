@@ -1,0 +1,3 @@
+ID,Folio_Alumno,Fecha_Salida,Fecha_Devolucion,Libro,Estado
+1,1001,2026-02-10,2026-02-20,Cien anos de soledad,PRESTADO
+2,1002,2026-02-12,,Don Quijote de la Mancha,ENTREGADO

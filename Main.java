@@ -257,7 +257,7 @@ class AnaliticaBiblioteca {
 public class Main {
     public static void main(String[] args) {
         AnaliticaBiblioteca motor = new AnaliticaBiblioteca();
-        motor.cargarDatos("BD_NORMALIZADA.csv", "Registro_Biblioteca - Hoja 1.csv");
+        motor.cargarDatos("BD_NORMALIZADA_EJEMPLO.csv", "Registro_Biblioteca_EJEMPLO.csv");
         motor.generarReportesArchivos();
     }
 }
