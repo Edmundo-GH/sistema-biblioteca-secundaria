@@ -1,4 +1,4 @@
-# Sistema Inteligente de Gestión y Analítica para Biblioteca Escolar 📚
+# Sistema de Gestión y Analítica para Biblioteca Escolar 📚
 
 Proyecto desarrollado para una escuela secundaria pública, enfocado en automatizar el control de préstamos de libros, seguimiento de deudores y cálculo del índice lector mediante una arquitectura híbrida.
 
