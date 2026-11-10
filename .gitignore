@@ -1,6 +1,15 @@
-*.class
+# Entorno virtual y cachés
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Archivos de Excel generados
+*.xlsx
+
+# Base de datos local de la app (memoria)
+biblioteca_data.json
+
+# Archivos del sistema o IDE
 .vscode/
-BD_NORMALIZADA.csv
-Registro_Biblioteca - Hoja 1.csv
-Reporte_Deudores.csv
-Reporte_Estadisticas.csv
+.DS_Store
